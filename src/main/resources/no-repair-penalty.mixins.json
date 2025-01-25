@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.tmshader.noRepairPenalty.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilNextCostMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
