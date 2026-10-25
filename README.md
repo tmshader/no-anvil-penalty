@@ -1,9 +1,12 @@
-# No Repair Penalty
+# No Anvil Penalty
+Removes the "Prior Work" penalty from anvils to make repairing and enchanting your gear cheaper
 
-Removes the enchantment and repair penalty from anvils
+## Supported versions:
+- Minecraft: 26.1 or newer
+- Fabric: 0.20.1 or newer (Fabric API is not required)
 
-Install it and it works, it's that simple!
-
-### Supported and tested versions
-
-- 1.21.4 
+## Links:
+- [Modrinth](https://modrinth.com/mod/no-anvil-penalty)
+- [Releases](https://github.com/tmshader/no-anvil-penalty/releases)
+- [Source](https://github.com/tmshader/no-anvil-penalty)
+- [Issues](https://github.com/tmshader/no-anvil-penalty/issues)
